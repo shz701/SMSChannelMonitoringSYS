@@ -103,7 +103,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="at命令.txt" />
     <Content Include="bin\Debug\SMSChannelMonitoringSYS.vshost.exe" />
     <Content Include="bin\Debug\Channel.xml">
       <SubType>Designer</SubType>
