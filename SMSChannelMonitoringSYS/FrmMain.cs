@@ -9,7 +9,6 @@ using System.Windows.Forms;
 using System.Xml;
 using System.Text.RegularExpressions;
 using System.Net;
-using System.Web;
 using System.IO;
 using System.IO.Ports;
 using System.Threading;
